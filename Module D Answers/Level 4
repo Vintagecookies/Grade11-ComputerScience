@@ -1,0 +1,26 @@
+1.) Research about Version Control Systems for software developement and list at least 4 main features of a VCS.
+	-Keeping track of every revision to the code in the database
+	-Able to revert back to previous versions of the code without disrupting work flow
+	-Mulitple team members working simutaneously on the code
+	-Structured work flow
+
+2.) Explain why professional software developers use a VCS and why it would be helpful in this course.
+	Professional software developes uses VCS because it allows a team of developers to be working at the same time enabling maximum 
+	work efficiency. And it has the benefits of reverting back to stable verions of code in case of a mistake. A VCS would be helpful
+	in this course because it allows students to collaborate on group projects such as programming a game.
+
+3.) Explain the term "Collaboration" and how GitHub will alow you to collaborate with your teacher and other members of your work group.
+	Colloration means everyone is working to complete a goal at the same time. GitHub can allow students to collaborate peers and the 
+	teacher on a project and every member can work on the project simutaneously.
+
+4.)	Explain the team "Backup" and how Github will help you backup your work files.
+	Having a backup is a a fail-safe when the file is corrupted or lost, it is an extra copy of the file. GitHub VCS can be used as a
+	backup for project files.
+
+5.) Explain the term "Version Control" and how GitHub version control will be useful in this course.
+	Version Control is keeping previous versions of the project structured and organised. GitHub version control will be useful by 
+	organising previous versions of teh project code in a timeline. Making it easy for the user to find what version they need access to.
+
+6.) Explain the term "Distributed Access" and how GitHub distributed access will be useful in this course.
+	Distributed Access is when all members of the project has access to the project files. GitHub would allow students to give access to
+	a repository to collaborate for a project.
