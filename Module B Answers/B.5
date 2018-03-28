@@ -1,0 +1,70 @@
+Level 2:
+
+Square:
+import turtle
+myPen = turtle.Turtle()
+
+count = 0
+count1 = 0
+count2 = 0
+count3 = 0
+
+myPen.begin_fill()
+while count < 4:
+  myPen.right(90)
+  myPen.forward(50)
+  count += 1
+myPen.end_fill()
+
+while count1 < 3:
+  myPen.forward(50)
+  myPen.right(90)
+  count1 += 1
+
+myPen.forward(100)
+
+while count2 < 3:
+  myPen.right(90)
+  myPen.forward(50)
+  count2 += 1
+
+while count3 < 3:
+  myPen.forward(50)
+  myPen.right(90)
+  count3 +=1
+
+Hexagon:
+import turtle
+myPen = turtle.Turtle()
+
+myPen.begin_fill()
+for i in range(6):
+  myPen.forward(50)
+  myPen.right(60)
+myPen.end_fill()
+
+myPen.forward(50)
+myPen.left(60)
+
+for i in range(5):
+  myPen.forward(50)
+  myPen.right(60)
+
+myPen.left(120)
+
+for i in range(5):
+  myPen.forward(50)
+  myPen.left(60)
+
+Level 3:
+
+Square Spiral:
+import turtle
+myPen = turtle.Turtle()
+
+one = 200
+
+for i in range(26):
+  myPen.forward(one)
+  myPen.right(90)
+  one = one - 7
