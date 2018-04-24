@@ -23,3 +23,28 @@ HTTP stands for Hypertext Transfer Protocol and it is a method for computers to 
 The cilent (web browser) uses HTTP and request information from a web server. And the server sends a packet of information back to the cilent for it to process.
 
 9.) How does a web server reply to a webpage request?
+The web server recieves the request from the cilent and sends back a packet of information conataining the webpage. The information goes the cilent by using their IP address.
+
+10.) What does HTML stand for and how does it work?
+Hypertext Markup Language is what allows computers to process and understand the information recieve from a server. HTML uses tags to structure code. A web browser reads these tags and processes them to make the webpage appear on screen.
+
+11.) How is a HTML document different from a regular text document?
+HTML uses tags as a structure. While a regular text document uses indents and return key.
+
+12.) How are HTML and HTTP diferent and similiar?
+HTTP is the way computers to ask each other for a webpage. HTML is the way webpages are written in so that the web browser can read them and display them.
+
+13.) What are the four main parts of a URL?
+- http://
+- domain name
+- HTML file
+- .php or .asp files
+
+14.)  What is the purpose of a URL and why are they important?
+A URL serves as a address for a webpage. So that if a cilent were to access that webpage, they would type in that URL to go. They are important because it acts as the method for users to access the website.
+
+15.) What is the simpliest way to host a website?
+The simpliest way to host a website used to be where you configure your own computer to accept incoming traffic but that meant that your computer's resources would be maxed out. Now you can pay an ISP to host your website, they give you a folder to place your website's information. In addition, there are web services that allow you to create and host your own website without the expertise of coding in html.
+
+16.) What is the simpliest way to edit a webpage?
+The simpliest way to eidt a webpage is to use a text editor such as word pad.
