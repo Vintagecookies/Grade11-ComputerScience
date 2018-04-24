@@ -1,0 +1,25 @@
+1.) What is the Internet?
+A worldwide network of computers. Applications can use the internet to send information from computer to computer. The Web is one such application.
+
+2.) What is the Web?
+A worldwide collection of textpages and various forms of media that you access through the Internet.
+
+3.) What is the difference and similarity between the Internet and the Web?
+The difference between the Internet and the Web is that the Internet is hardware being connected, and the Web is where websites are stored and can be accessed using the Internet. They are similar because they work together in modern applications.
+
+4.) What made if difficult for early computers to communicate?
+Manufacturers designed early computers to run their own proprietary software so they were often imcompatible with each other. 
+
+5.) What changed in the mid 1980's?
+Microsoft made an operating system that allows IBM computers to run the same programs. In addition, Tim Burner Lee, a computer scientist at CERN sought out to create the Internet.
+
+6.) What is ACSII and how did it help solve the communication problem?
+ACSII is a character encoding standard for commuication between computers. It represents text in computers, telecommunications equipment and other devices. This allowed computers to send and recieve data to each other.
+
+7.) What does HTTP stand for and how does it work?
+HTTP stands for Hypertext Transfer Protocol and it is a method for computers to transfer information to each other. It is a simple message. A cilent which could be a web browser asks the other computer in this case would be a server for information it needs.
+
+8.) How does a web browser ask for a webpage?
+The cilent (web browser) uses HTTP and request information from a web server. And the server sends a packet of information back to the cilent for it to process.
+
+9.) How does a web server reply to a webpage request?
