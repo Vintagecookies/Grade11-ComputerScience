@@ -1,0 +1,25 @@
+int externalLED = 10;
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(externalLED, OUTPUT);
+  
+}
+
+void blink(int led, int totalTime) {
+    digitalWrite(led, HIGH);
+    delay(totalTime);
+    digitalWrite(led, LOW);
+    delay(totalTime); 
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  for (int i = 0; i < 2; i++) {
+    blink(LED_BUILTIN, 200);
+    blink(externalLED, 200);
+  }
+  blink(LED_BUILTIN, 1000);
+  blink(externalLED, 1000);
+}
